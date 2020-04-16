@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jiannaikuangqie.github.io</id>
+    <title>北大西洋暖流</title>
+    <updated>2020-04-16T01:29:31.228Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jiannaikuangqie.github.io"/>
+    <link rel="self" href="https://jiannaikuangqie.github.io/atom.xml"/>
+    <subtitle>一生温暖纯良，不舍爱与自由。</subtitle>
+    <logo>https://jiannaikuangqie.github.io/images/avatar.png</logo>
+    <icon>https://jiannaikuangqie.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 北大西洋暖流</rights>
+</feed>
